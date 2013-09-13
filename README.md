@@ -26,3 +26,16 @@ History
   Ian Dees and Josh Berkus. 
 
 Note that there is no git history of the above, it's simply for your information.
+
+License
+-------
+
+Portions Copyright 2010-2011 Ian Dees and Josh Berkus
+
+Portions Copyright 2013 Josh Berkus
+
+All GGTT files are licensed [Creative Commons Attribution Share-Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/), 
+unless otherwise noted in the file.  Note that some individual 
+images used in presentations may be licensed differently due to source,
+and for many the originator of the image is difficult to determine.
+All other rights reserved.
